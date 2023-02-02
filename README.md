@@ -1,3 +1,3 @@
-## [*boost* mural](https://webmural.com/boost)
+## [`ollie` mural](https://webmural.com/ollie)
 
-[opensource](UNLICENSE.txt) [skywave](https://webmural.com/kara) [template](../../generate)
+[opensource](UNLICENSE.txt) [boost](https://webmural.com/boost) [template](../../generate)
