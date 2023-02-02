@@ -16,7 +16,7 @@ article {
   margin: auto;
   max-width: 10em;
   min-height: 100vh;
-  padding: 2em;
+  padding: 2em 0 2em 1em;
 }
 
 b {
@@ -52,6 +52,10 @@ h2 {
   margin-block: 2em;
 }
 
+code {
+  font-family: sans-serif;
+}
+
 .lip {
   transform: rotate(-30deg);
 }
@@ -63,7 +67,6 @@ h2 {
 
 .codex {
   margin: auto;
-  margin-left: 0;
   padding-inline: 0;
   list-style: none;
 }
